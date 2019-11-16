@@ -10,3 +10,7 @@ layout: about
 ---
 
 I am an undergraduate Computer Science student at the University of St Andrews. I'm currently in my second year (having entered directly into second year).
+
+I am proficient in Java, and I'm also familiar with JavaScript and Visual Basic. I'm currently interested in data science and big data, but have also done projects in artificial intelligence.
+
+In my spare time I like to play and make music. I play the guitar and bass guitar, and also produce music electronically.
