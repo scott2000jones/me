@@ -28,10 +28,21 @@ twitter_username:
 github_username:  scott2000jones
 linkedin_username: scott2000jones
 
+nav_ext_links:
+  - name: CV
+    url: https://scott2000jones.github.io/me/assets/pdf/cv.pdf
+  - name: Music
+    url: https://scott2000jones.github.io/me/
+
 # Build settings
+# Build settings
+markdown: kramdown
 theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
