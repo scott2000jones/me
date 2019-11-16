@@ -6,7 +6,7 @@ title: Scott Jones
 seotitle: Scott Jones
 summary: Hi - I'm Scott Jones, a Computer Science student at the University of St Andrews
 invisible: true
-layout: home
+layout: about
 ---
 
 I am an undergraduate Computer Science student at the University of St Andrews. I'm currently in my second year (having entered directly into second year).
