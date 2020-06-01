@@ -6,7 +6,7 @@ title: Scott Jones | Projects
 seotitle: Scott Jones
 summary: Hi - I'm Scott Jones, a Computer Science student at the University of St Andrews
 invisible: true
-layout: about
+layout: default
 ---
 
 Projects page
